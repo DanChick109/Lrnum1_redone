@@ -1,5 +1,5 @@
 def main():
-    sides = [2, 56, 2, 768, 1, 3, 67, 2, 10, 187, 100, 4]
+    sides = [3, 7 ,6, 125, 352, 768]
     sides = sorted(sides, reverse=True)
 
     S_max = 0

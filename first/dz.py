@@ -13,7 +13,7 @@ def main():
         x = -b / 2 * a
         print(x)
     if d < 0:
-        print('net korney')
+        print('Нет корней!')
 
 
 if __name__ == "__main__":
